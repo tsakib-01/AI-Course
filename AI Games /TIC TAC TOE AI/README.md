@@ -40,11 +40,14 @@ This game uses the **Minimax Algorithm**, a recursive decision-making strategy u
 
 ## 🖼️ Screenshot
 
+<img width="497" height="239" alt="Image" src="https://github.com/user-attachments/assets/661f6f43-16e9-46d4-9a28-6caa8c66cae9" />
+
+<img width="558" height="412" alt="Image" src="https://github.com/user-attachments/assets/66d1435d-0342-43f1-9858-1f4acdb9cb1f" />
 
 ```markdown
 
 
-![Game Screenshot](./screenshot.png)
+
 
 
 ## 📂 How to Run This Game
